@@ -186,7 +186,7 @@ http://localhost:3000
 ---
 
 ## Contact
-- **Email**: idreesjee2810@gmail.com  
-- **GitHub**: [Idrees-28](https://github.com/Idrees-28)
+- **Email**: chatrapathirajkumar15@gmail.com
+- **GitHub**: [Idrees-28](https://github.com/Chatrapathi-2005)
 
 ---
