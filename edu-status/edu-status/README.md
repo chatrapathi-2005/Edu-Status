@@ -187,6 +187,6 @@ http://localhost:3000
 
 ## Contact
 - **Email**: chatrapathirajkumar15@gmail.com
-- **GitHub**: [Idrees-28](https://github.com/Chatrapathi-2005)
+- **GitHub**: [Chatrapathi-2005](https://github.com/Chatrapathi-2005)
 
 ---
